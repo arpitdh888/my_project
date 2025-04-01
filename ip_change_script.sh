@@ -23,3 +23,5 @@ ip addr show $INTERFACE
 
 echo "IP address changed to $NEW_IP successfully!"
 
+
+#Thanks to set github
